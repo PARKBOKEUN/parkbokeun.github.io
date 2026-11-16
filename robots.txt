@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://parkbokeun.github.io/sitemap.xml
